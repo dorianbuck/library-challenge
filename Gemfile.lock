@@ -40,12 +40,13 @@ GEM
     sync (0.5.0)
     term-ansicolor (1.7.1)
       tins (~> 1.0)
-    thor (1.1.0)
+    thor (1.4.0)
     tins (1.29.1)
       sync
 
 PLATFORMS
   x86_64-darwin-20
+  x86_64-linux
 
 DEPENDENCIES
   coveralls
